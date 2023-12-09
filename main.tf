@@ -1,3 +1,3 @@
 module "testing" {
-source = "https://github.com/AnupamDutta3/terramodule.git/module/v1"
+source = "https://github.com/AnupamDutta3/terramodule.git/module/v1/"
 }
