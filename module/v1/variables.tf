@@ -1,8 +1,8 @@
 variable "ami" {
-  default = "ami-0fc5d935ebf8bc3bc"
+  default = "abc"
 }
 variable "instance_type" {
-  default = "t2.micro"
+  default = "from-module"
 }
 variable "key_name" {
   default = "something"
