@@ -7,3 +7,4 @@ resource "aws_instance" "TF_instance_1" {
   tags = {
     Name = "${var.instance_name}"
   }
+}
