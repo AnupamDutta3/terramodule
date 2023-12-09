@@ -4,5 +4,5 @@ ami = ""
 instance_type = ""
 key_name = ""
 instance_name = ""
-number = ""
+number = 
 }
