@@ -10,6 +10,6 @@ variable "key_name" {
 variable "instance_name" {
   default = "something"
 }
-variable "count" {
+variable "number" {
   default = 1
 }
